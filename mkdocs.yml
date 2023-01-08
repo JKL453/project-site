@@ -1,7 +1,7 @@
 # Project information
-site_name: Kappel's Projects
-site_url: https://kappel.wtf
-site_author: JK
+site_name: JKL453's Projects
+site_url: https://jkl453.github.io/project-site
+site_author: JKL
 
 nav:
   - Home: index.md
